@@ -1,2 +1,2 @@
 # Linear Programming
-1 - The Simplex Method
+1 The Simplex Method
