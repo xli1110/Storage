@@ -81,7 +81,7 @@ def pivot_index(A, b, c, M, N, case):
                 f = i
                 break
 
-        """Find k"""
+        """Find the Column Index k"""
         k = -1
         for j in range(N):
             if A[f, j] < 0:
@@ -92,7 +92,7 @@ def pivot_index(A, b, c, M, N, case):
             print("The standard problem is infeasible.")
             return -1, -1
 
-        """Find h"""
+        """Find the Row Index h"""
         # Compute the values of b[i] / A[i, k]
         f_value = b[f] / A[f, k]
         h_value = []
