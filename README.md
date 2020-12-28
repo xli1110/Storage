@@ -1,5 +1,6 @@
 # Linear Programming
-1 The Simplex Method \n
+1 The Simplex Method
+
 Solve the standard linear programming problem:
 maximize c^{T}x
 s. t. Ax <= b and x >= 0
