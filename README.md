@@ -1,5 +1,4 @@
-# Linear Programming
-1 The Simplex Method
+# Linear Programming The Simplex Method
 
 Solve the standard linear programming problem:
 
